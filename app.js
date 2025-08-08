@@ -67,6 +67,3 @@ function sortearAmigo() {
     nombres = [];
     actualizarLista();
 }
-
-
-
