@@ -61,7 +61,7 @@ function sortearAmigo() {
     let resultado = document.getElementById("resultado");
 
     // Inserto el nombre del ganador con innerHTML:
-    resultado.innerHTML = `<li>${nombreGanador}</li>`;
+    resultado.innerHTML = `El nombre sorteado es: <li>${nombreGanador}</li>`;
 
     // Limpio el listado para el proximo sorteo:
     nombres = [];
