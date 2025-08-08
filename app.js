@@ -10,7 +10,7 @@ function actualizarLista() {
     let lista = document.getElementById("listaAmigos");
 
     //Limpio la lista para evitar duplicado:
-    lista.innerHTML = ""; 
+    lista.innerHTML = "";
 
     //Inserto el nombre al listado con innerHTML y for:
     for (let i = 0; i < nombres.length; i++) {
@@ -62,6 +62,10 @@ function sortearAmigo() {
 
     // Inserto el nombre del ganador con innerHTML:
     resultado.innerHTML = `<li>${nombreGanador}</li>`;
+
+    // Limpio el listado para el proximo sorteo:
+    nombres = [];
+    actualizarLista();
 }
 
 
