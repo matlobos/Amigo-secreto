@@ -1,7 +1,7 @@
-<h1>CHALLENGE AMIGO SECRETO</h1>
+<h1>JUEGO DEL AMIGO SECRETO</h1>
 
 Descripción de su proyecto:
-El siguiente proyecto parte como una actividad academica del programa ONE EDUCATION de Alura LATAM. Consta de una pagina web dedicada al sorteo de nombres de amigos.
+El siguiente proyecto parte como una actividad academica del programa "ONE EDUCATION de Alura LATAM". Consta de una pagina web dedicada al sorteo de nombres de amigos.
 
 Funcionalidades:
 - Agregar nombres a la lista de participantes.
